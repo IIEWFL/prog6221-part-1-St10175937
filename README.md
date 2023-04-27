@@ -1,5 +1,5 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/Oa99dRjC)
-###The steps for building and running the software on a computer are listed below:
+### The steps for building and running the software on a computer are listed below:
 
 ### 1.The software queries that the user submit recipe information.
 this includes: 
